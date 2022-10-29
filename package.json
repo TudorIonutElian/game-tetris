@@ -1,22 +1,22 @@
 {
-  "name": "game-tetris",
-  "version": "1.0.0",
-  "description": "JavaScript Tetris Game",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TudorIonutElian/game-tetris.git"
-  },
-  "author": "Tudor Ionut Elian",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/TudorIonutElian/game-tetris/issues"
-  },
-  "homepage": "https://github.com/TudorIonutElian/game-tetris#readme",
-  "devDependencies": {
-    "typescript": "^4.8.4"
-  }
+    "name": "game-tetris",
+    "version": "1.0.0",
+    "description": "JavaScript Tetris Game",
+    "main": "index.js",
+    "scripts": {
+        "tsc-runner": "tsc -w"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TudorIonutElian/game-tetris.git"
+    },
+    "author": "Tudor Ionut Elian",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/TudorIonutElian/game-tetris/issues"
+    },
+    "homepage": "https://github.com/TudorIonutElian/game-tetris#readme",
+    "devDependencies": {
+        "typescript": "^4.8.4"
+    }
 }
